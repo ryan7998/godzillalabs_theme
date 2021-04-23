@@ -194,6 +194,6 @@
 		</div>
 	</div>
 	<div id="footer-second" class="row text-center">
-		© 2015 All Rights Reserved. Developed by GodzillaLabs
+		© <?php print date("Y") ?> All Rights Reserved. Developed by <a href="fazleryan.com">Fazle Ryan</a>
 	</div>
 </footer>
