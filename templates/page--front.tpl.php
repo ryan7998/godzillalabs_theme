@@ -159,19 +159,19 @@
 </div>
 <footer class="footer container-fluid">
 	<div id="footer-first" class="row">
-		<div class="col-sm-3 footer-blocks">
+		<!-- <div class="col-sm-3 footer-blocks">
 			<b>ADDRESS</b>
 			<h3>Address goes here..</h3>
-		</div>	
-		<div class="col-sm-3 footer-blocks">
+		</div>	 -->
+		<div class="col-sm-4 footer-blocks">
 			<b>SKYPE</b>
 			<h3>godzilla.labs</h3>
 		</div>
-		<div class="col-sm-3 footer-blocks">
+		<div class="col-sm-4 footer-blocks">
 			<b>EMAIL</b>
 			<h3>info@godzillalabs.com</h3>
 		</div>
-		<div id ="social-block" class="col-sm-3 footer-blocks">
+		<div id ="social-block" class="col-sm-4 footer-blocks">
 			<b>FOLLOW US</b>
 			<p><a href="http://linkedin.com" target="_blank"><img alt="" src="http://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png" style="height:32px; width:32px" /></a><a href="http://facebook.com" target="_blank"><img alt="" src="http://icons.iconarchive.com/icons/danleech/simple/48/xing-icon.png" style="height:32px; width:32px" /></a><a href="http://twitter.com" target="_blank"><img alt="" src="http://icons.iconarchive.com/icons/danleech/simple/48/twitter-icon.png" style="height:32px; width:32px" /></a><a href="http://facebook.com" target="_blank"><img alt="" src="http://icons.iconarchive.com/icons/danleech/simple/48/facebook-icon.png" style="height:32px; width:32px" /></a></p>
 		</div>
